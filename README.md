@@ -5,8 +5,6 @@
 > 2025.10.21 ~ 
 
 ## 스터디 기록
-- [Notion 페이지](https://lacy-pirate-0e4.notion.site/Real-MySQL-4c68877d2ded42918bb8f6d0d684a0de?pvs=4)
-- [스터디 회고](https://lacy-pirate-0e4.notion.site/c9f1fa0e2313412d85b59180a84a79a5)
 
 ## 스터디 소개
 
@@ -29,7 +27,7 @@
 
 - [이상준](https://github.com/kiteB)
 
-- [정규원](https://github.com/kiteB)
+- [정규원](https://github.com/Gyuwon-Jung)
 
 ## 스터디 진행 방식
 
