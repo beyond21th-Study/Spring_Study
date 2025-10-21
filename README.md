@@ -23,7 +23,7 @@
 ### 멤버
 - [김윤경](https://github.com/yk5095)
 
-- [김채우](https://github.com/choyoungwoo9)
+- [김채우](https://github.com/chaewookim)
 
 - [이상준](https://github.com/kiteB)
 
