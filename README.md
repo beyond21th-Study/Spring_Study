@@ -25,6 +25,8 @@
 
 - [김채우](https://github.com/chaewoo-kim)
 
+- [유찬연](https://github.com/Gyuwon-Jung)
+
 - [이상준](https://github.com/kiteB)
 
 - [정규원](https://github.com/Gyuwon-Jung)
