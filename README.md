@@ -21,7 +21,7 @@
 - `서초캠퍼스` 대면 미팅
 
 ### 멤버
-- [김윤경](https://github.com/yk5095)
+- [김윤경](https://github.com/kyk5095)
 
 - [김채우](https://github.com/chaewoo-kim)
 
